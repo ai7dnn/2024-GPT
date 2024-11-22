@@ -6,7 +6,7 @@
 ## 깃허브 자료 다운로드
 - 압축파일 *.zip 다운로드
 - git clone 명령 
-  - `git clone https://github.com/ai7dnn/2024-AI.git`
+  - `git clone https://github.com/ai7dnn/2024-GPT.git`
 
 ## 인공지능 체험
 - 인공신경망 체험
